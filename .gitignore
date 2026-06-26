@@ -1,0 +1,33 @@
+# Environment & secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# ChromaDB (local vector store — rebuild from source docs)
+chroma_db/
+
+# Node
+node_modules/
+package-lock.json
+
+# Models (large binary files)
+models/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Scratch files
+scratch.py
+scratch2.py
+test_imports.py
+
+# OS
+.DS_Store
+Thumbs.db
