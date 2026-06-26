@@ -160,10 +160,4 @@ The ensemble model combines:
 
 This tool is for screening purposes only and should not replace professional medical diagnosis. Always consult with qualified ophthalmologists for definitive diagnosis and treatment.
 
-## License
 
-[Add your license information]
-
-## Contributing
-
-[Add contribution guidelines]
